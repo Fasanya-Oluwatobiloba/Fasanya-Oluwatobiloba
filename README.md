@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Fasanya-Oluwatobiloba
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript and tailwindcss
+- 🌱 I’m Skilled in Tailwindcss, Bootstrap 5,  JavaScript and Python
 - 💞️ I’m looking to collaborate on web development projects
+- I'm also intrested in Artificial Intelligence and looking forward to work on Machine Learning projects
 - 📫 How to reach me tobilobaisreal5@gmail.com
 
 <!---
